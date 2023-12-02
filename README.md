@@ -5,15 +5,6 @@
 - 📫 Linkedin: https://www.linkedin.com/in/wesley-oliveira-silva-76906716a/
 - Projetos pessoais que trabalho no momento, API de um quadro de empregos e uma API de um bloco de notas.
 - ⚡ Fun fact: Comecei a gostar de programação tentando entender como funcionavam bonecos de jogos rpg.
-
----
-
-<div>
-<a href="https://github.com/wesolsv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesolsv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesolsv&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ---
 
 ##  Habilidades e Ferramentas
