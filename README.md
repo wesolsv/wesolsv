@@ -1,9 +1,8 @@
 ### Olá ! eu sou o Wesley Oliveira Silva
 
-- 🔭 Desenvolvedor Júnior
+- 🔭 Desenvolvedor Java
 - 📫 Contate-me no e-mail: wesolsv@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/wesley-oliveira-silva-76906716a/
-- Projetos pessoais que trabalho no momento, API de um quadro de empregos e uma API de um bloco de notas.
 - ⚡ Fun fact: Comecei a gostar de programação tentando entender como funcionavam bonecos de jogos rpg.
 ---
 
